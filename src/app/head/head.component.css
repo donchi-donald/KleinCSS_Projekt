@@ -1,0 +1,24 @@
+.button {
+  background-color: white;
+  width: 200px;
+  text-align: left;
+  align-items: flex-end;
+  border-color: grey;
+  margin: 10px;
+  display: inline-block;
+}
+.button2 {
+  align-self: center;
+}
+.div {
+  position: relative;
+}
+.head {
+  width: 20px;
+}
+.icon {
+  color: #339999;
+}
+.dropdown-toggle::after {
+  display: none;
+}
